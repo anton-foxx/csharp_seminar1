@@ -1,0 +1,15 @@
+/Users/anton/Documents/developer/С#/seminar/1/bin/Debug/net6.0/1
+/Users/anton/Documents/developer/С#/seminar/1/bin/Debug/net6.0/1.deps.json
+/Users/anton/Documents/developer/С#/seminar/1/bin/Debug/net6.0/1.runtimeconfig.json
+/Users/anton/Documents/developer/С#/seminar/1/bin/Debug/net6.0/1.dll
+/Users/anton/Documents/developer/С#/seminar/1/bin/Debug/net6.0/1.pdb
+/Users/anton/Documents/developer/С#/seminar/1/obj/Debug/net6.0/1.csproj.AssemblyReference.cache
+/Users/anton/Documents/developer/С#/seminar/1/obj/Debug/net6.0/1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anton/Documents/developer/С#/seminar/1/obj/Debug/net6.0/1.AssemblyInfoInputs.cache
+/Users/anton/Documents/developer/С#/seminar/1/obj/Debug/net6.0/1.AssemblyInfo.cs
+/Users/anton/Documents/developer/С#/seminar/1/obj/Debug/net6.0/1.csproj.CoreCompileInputs.cache
+/Users/anton/Documents/developer/С#/seminar/1/obj/Debug/net6.0/1.dll
+/Users/anton/Documents/developer/С#/seminar/1/obj/Debug/net6.0/refint/1.dll
+/Users/anton/Documents/developer/С#/seminar/1/obj/Debug/net6.0/1.pdb
+/Users/anton/Documents/developer/С#/seminar/1/obj/Debug/net6.0/1.genruntimeconfig.cache
+/Users/anton/Documents/developer/С#/seminar/1/obj/Debug/net6.0/ref/1.dll
